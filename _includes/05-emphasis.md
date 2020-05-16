@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Skills
+I'm learning **Git** so that I can *speak* and *act* more effectively with my programming partners to create engaging experiences for our users.
